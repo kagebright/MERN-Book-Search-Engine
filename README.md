@@ -6,7 +6,7 @@ This is a book search engine built using the MERN stack with a React front end, 
 
 - [Installation](Installation)
 - [Usage](Usage)
-- [Technologies Used](Technologies Used)
+- [Technologies](Technologies Used)
 - [Contributing](Contributing)
 - [License](License)
 
