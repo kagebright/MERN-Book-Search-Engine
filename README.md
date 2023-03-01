@@ -4,11 +4,11 @@ This is a book search engine built using the MERN stack with a React front end, 
 
 ## Table of Contents
 
-- [Installation](Installation)
-- [Usage](Usage)
-- [Technologies](Technologies Used)
-- [Contributing](Contributing)
-- [License](License)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Technologies](#Technologies Used)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ## Installation 
 
