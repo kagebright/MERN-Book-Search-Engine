@@ -24,7 +24,7 @@ To install and run this application, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies in both the client and server directories.
 3. Start the development server by running the command `npm start` in the root directory.
-4. Open your web browser and navigate to `http://localhost:3001` to view the application.
+4. Open your web browser and navigate to `http://localhost:3000` to view the application.
 
 ## Technologies Used:
 
@@ -48,6 +48,6 @@ This application is licensed under the MIT license
 
 ## Links
 - [GitHub repo](https://github.com/kagebright/MERN-Book-Search-Engine)
-- [Deployed application]()
+- [Deployed application](https://young-bastion-81785.herokuapp.com/)
 
 ## Screenshots 
