@@ -48,7 +48,7 @@ This application is licensed under the MIT license
 
 ## Links
 - [GitHub repo](https://github.com/kagebright/MERN-Book-Search-Engine)
-- [Deployed application](https://young-bastion-81785.herokuapp.com/)
+- [Deployed application](https://quiet-anchorage-80557.herokuapp.com/)
 
 ## Screenshots 
 ![Screen Shot 2023-03-18 at 9 45 55 PM](https://user-images.githubusercontent.com/113262558/226149859-0bd96315-da26-4f7d-943c-d98b1fcb7f99.png)
