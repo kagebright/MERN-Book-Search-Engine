@@ -1,0 +1,45 @@
+{
+    "books": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published": "1960",
+        "isbn": "9780061120084",
+        "language": "English",
+        "genre": ["Fiction", "Historical Fiction"]
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published": "1925",
+        "isbn": "9780743273565",
+        "language": "English",
+        "genre": ["Fiction", "Classics"]
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "published": "1949",
+        "isbn": "9780451524935",
+        "language": "English",
+        "genre": ["Fiction", "Science Fiction"]
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published": "1951",
+        "isbn": "9780316769488",
+        "language": "English",
+        "genre": ["Fiction", "Coming-of-Age"]
+      },
+      {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "published": "1967",
+        "isbn": "9780060883287",
+        "language": "Spanish",
+        "genre": ["Fiction", "Magical Realism"]
+      }
+    ]
+  }
+  
