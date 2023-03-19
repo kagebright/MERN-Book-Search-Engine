@@ -51,7 +51,8 @@ This application is licensed under the MIT license
 - [Deployed application](https://young-bastion-81785.herokuapp.com/)
 
 ## Screenshots 
+![Screen Shot 2023-03-18 at 9 45 55 PM](https://user-images.githubusercontent.com/113262558/226149859-0bd96315-da26-4f7d-943c-d98b1fcb7f99.png)
+![Screen Shot 2023-03-18 at 9 46 06 PM](https://user-images.githubusercontent.com/113262558/226149862-740e0198-a7b5-44f8-a652-d299591bda2f.png)
 
-![![Screen Shot 2023-03-18 at 9 46 06 PM](https://user-images.githubusercontent.com/113262558/226149815-44d1b09b-1240-41e3-90eb-9911502e3712.png)
-![Screen Shot 2023-03-18 at 9 46 06 PM](https://user-images.githubusercontent.com/113262558/226149832-247839c5-aca1-42a8-93ce-555a28f1c70c.png)
+
 
